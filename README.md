@@ -1,2 +1,3 @@
 # hello-world
-for the first time
+
+Hello, I'm Neftali Destajo. I am a graduate of BSIT. 
